@@ -1,20 +1,60 @@
-# Noor E Hidayat – Islamic Landing Page
+# Noor-e-Hidayat – Islamic Education Landing Page
 
-## Folder Structure
-- index.html : Main HTML file where Team Lead will combine all sections
-- css/style.css : All team members will add their styles here (with clear comments)
-- images/ : UI Designer will provide images and assets here
-
-## Workflow
-1. Each member creates their own section file (hero.html, features.html, etc.)
-2. Team Lead combines all sections into index.html
-3. Use semantic HTML elements (<header>, <section>, <footer>)
-4. Follow the design guidelines (colors, fonts, spacing)
-
-## Color Palette
-- Islamic Green: #1E5631
-- Golden Beige: #F7C59F
-- Soft White: #F5F5F5
+A responsive and modern landing page developed as a **learning-based team project**, assigned by our instructor, for an Islamic education platform named **Noor-e-Hidayat**.
 
 ---
-**Important:** Only Team Lead edits index.html directly. All others work on their own section files and share them for merging.
+
+## 🔗 Live Demo
+👉 https://noor-e-hidayat-landing-page-proj.netlify.app/
+
+---
+
+## 📌 Project Overview
+This landing page is designed to showcase:
+- Islamic courses and learning paths
+- Platform mission and values
+- Student engagement statistics
+- Clear call-to-action for enrollment
+
+It is a **single-page responsive landing website**, focused on clean UI, accessibility, and usability.
+
+---
+
+## 👥 Project Type
+- **Learning Team Project**
+- **Instructor-Assigned**
+- Built for practice and skill development, not for commercial use
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5** – Semantic and structured markup  
+- **CSS3** – Flexbox, responsive design, custom styling  
+- **JavaScript (Vanilla JS)** – Navigation toggle and basic interactivity  
+
+---
+
+## ✨ Features
+- Fully responsive layout (mobile, tablet, desktop)
+- Clean and minimal UI
+- Interactive hamburger navigation menu
+- Well-organized sections (Hero, About, Courses, Stats, Contact)
+- Deployed on Netlify
+---
+
+## 📈 Learning Outcomes
+- Team collaboration and task coordination
+- Improved understanding of responsive layouts
+- Practical use of Flexbox
+- JavaScript DOM manipulation
+- Experience with real project deployment
+
+---
+
+## 👩‍💻 Contributor
+**Ayesha Noor**  
+Frontend Developer (Learning Phase)
+
+---
+
+This project was developed for **educational and learning purposes** as part of a team assignment.
